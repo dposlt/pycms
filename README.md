@@ -5,3 +5,7 @@ micro-cms pro small website
 -- flask
 -- bootstap
 -- sqlite3
+-- virtualenv
+
+-- wsgi
+-- ngnix
