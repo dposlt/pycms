@@ -1,5 +1,5 @@
 # pycms
-micro-cms pro small static website
+micro-cms for small website
 
 -- python3.4
 
@@ -10,7 +10,6 @@ micro-cms pro small static website
 -- sqlite3
 
 -- virtualenv
-
 
 -- wsgi
 
